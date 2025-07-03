@@ -1,4 +1,10 @@
-/* Test CSS commit */
 body {
-    background: lightblue;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  background-color: #f0f2f5;
+  color: #333;
+}
+.container {
+  width: 90%%;
+  margin: 0 auto;
 }

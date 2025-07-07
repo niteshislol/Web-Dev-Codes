@@ -1,0 +1,9 @@
+h1, h2, h3 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #444;
+}
+table {
+  width: 100%%;
+  border-collapse: collapse;
+}
